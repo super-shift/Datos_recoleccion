@@ -1,0 +1,12 @@
+Data_1 >> 2019.10.22_ENCAVI.2015.ocupacion.y.sf12_comuna.sav
+
+Data_2 >> Base de datos Encuesta Nacional de Salud 2016-2017(ENS).Formulario 1_2_EX.MINSAL_EPI. (2).sav
+
+Data_3 >> Base de datos Encuesta Nacional de Salud 2016-2017(ENS).Formulario 1_2_EX.MINSAL_EPI. (2)_CIDI_SF_Comuna.sav
+
+Data_4 >> Base de datos Encuesta Nacional de Salud 2016-2017(ENS).Formulario 1_2_EX.MINSAL_EPI. (2)_CIDI_SF_Comuna.sav
+
+Data_5 >> Base de datos Encuesta Nacional de Salud 2016-2017(ENS)Formulario 4.MINSAL_EPI..sav
+
+Data_6 >> diag_main_v8_spss_11102019.sav
+
